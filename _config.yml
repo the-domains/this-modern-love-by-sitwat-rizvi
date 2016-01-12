@@ -1,0 +1,28 @@
+name: This Modern Love by Sitwat Rizvi
+favicon: null
+layout_spectrum: 0.5528925526887178
+typography_spectrum: 0.07379354815930128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5463107868563384
+  lightness: 0.7509651863947511
+  saturation: 0.46823091455735266
+  rhythmicContrast: 0.9193074607755989
+purpose: []
